@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-jn7x45.settlr.online/sitemap.xml
